@@ -66,6 +66,11 @@
 2. [Lets Build GPT: From scratch, in code, spelled out by Andrej Karpathy](https://youtu.be/kCc8FmEb1nY?si=cnZCVmmnHU1mSgJV) (Free)
 3. [A Hacker’s Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=zAjlZT4-SaajhA33) (Free)
 
+### Awesome repo
+1. https://github.com/NirDiamant/agents-towards-production
+2. https://github.com/NirDiamant/RAG_Techniques
+3. https://github.com/pat-jj/RAS
+
 ### ML & Deep Learning Books
 #### Foundation
 1) [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) (well explained concepts with good figures)
